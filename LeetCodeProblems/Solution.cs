@@ -101,7 +101,7 @@ public class Solution
         return glassesArray[query_row, query_glass];
     }
 
-    //https://vk.com/away.php?utf=1&to=https%3A%2F%2Fleetcode.com%2Fproblems%2Frotate-image%2Fdescription%2F
+    //https://leetcode.com/problems/rotate-image/description/
     public void Rotate(int[][] matrix)
     {
         var rows = matrix.Length;
